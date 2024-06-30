@@ -16,9 +16,9 @@ The following technologies were utilized for this project:
 
 To collect data from the ECI website, a Python script (`scraping_script.py`) was developed using BeautifulSoup to parse the HTML pages. The script navigates through the website, extracts relevant election results data, and stores it for further analysis.
 
-## Data Visualization 📊
+## Data Cleaning and Visualization 📊
 
-To Visualize data from the python script, the scraped data was converted to a CSV file . Then the csv file was used to generate insightful Dashboard using Tableau Public.
+To Visualize data from the python script, the scraped data was converted to a CSV file . Then the csv file was cleaned using MsExcel and finally used to generate insightful Dashboard using Tableau Public.
 
 ## Conclusion 🧐
 
